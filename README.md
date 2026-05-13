@@ -2,9 +2,9 @@
 
 # Gemini Watermark Remover — Free Browser-Based Gemini Watermark Removal Tool
 
-An open-source tool to **remove visible Gemini watermarks** from AI-generated images with high-fidelity, reproducible results. It is built with pure JavaScript and a mathematically exact **Reverse Alpha Blending** pipeline with multi-pass refinement — no AI inpainting, no account login, and no server-side upload required.
+A fast, privacy-friendly **Gemini AI watermark remover** that runs entirely in your browser. Instead of relying on uncertain AI inpainting, it uses pure JavaScript and a mathematically grounded **Reverse Alpha Blending** workflow to restore watermark-affected pixels with consistent results.
 
-> **Use it online:** [ducttape3.org/en/tools/gemini-watermark-remover](https://ducttape3.org/en/tools/gemini-watermark-remover) — the recommended free web version for quick Gemini image watermark removal.
+> **Try our online tool:** [ducttape3.org/en/tools/gemini-watermark-remover](https://ducttape3.org/en/tools/gemini-watermark-remover) — tired of Gemini watermarks? Open the free web version to upload, preview, and download cleaned images instantly. For new image generation workflows, you can also discover **GPT-Image-2** resources through our site.
 
 <p align="center">
   <a href="https://ducttape3.org/en/tools/gemini-watermark-remover"><img src="https://img.shields.io/badge/Online_Tool-ducttape3.org-6366f1?style=for-the-badge" alt="Online Gemini Watermark Remover"></a>&nbsp;

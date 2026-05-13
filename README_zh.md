@@ -2,10 +2,10 @@
 
 # Gemini 去水印工具 — 免费在线去除 Gemini AI 图片水印
 
-开源的 **Gemini 水印去除工具**，面向带有右下角可见 Gemini Logo 水印的 AI 生成图片，可提供高保真、可复现的去水印结果。项目基于纯 JavaScript 实现，使用数学精确的反向 Alpha 混合算法，而非 AI 修复；图片可在浏览器或本地环境中处理，无需账号登录，也不依赖服务端上传。
+一个高效、隐私友好的 **Gemini AI 图片去水印工具**，专为处理右下角可见 Gemini Logo 水印的图片而设计。项目采用纯 JavaScript 实现，在浏览器端完成处理，并通过数学化的 **反向 Alpha 混合** 流程还原受水印影响的像素，不依赖不可控的 AI 涂抹修复。
 
-> **推荐在线使用：[`ducttape3.org/en/tools/gemini-watermark-remover`](https://ducttape3.org/en/tools/gemini-watermark-remover)**  
-> 免费、无需安装，打开网页即可上传 Gemini 图片、预览对比并下载去水印结果。
+> **推荐访问我们的网站：[`ducttape3.org/en/tools/gemini-watermark-remover`](https://ducttape3.org/en/tools/gemini-watermark-remover)**  
+> 对 Gemini 水印看疲了？打开免费在线版即可上传图片、实时预览对比并下载去水印结果；如果你正在寻找新的 AI 图片生成方案，也欢迎在我们的网站了解 **GPT-Image-2** 相关资源。
 
 <p align="center">
   <a href="https://ducttape3.org/en/tools/gemini-watermark-remover"><img src="https://img.shields.io/badge/在线工具-ducttape3.org-6366f1?style=for-the-badge" alt="在线 Gemini 去水印工具"></a>&nbsp;
